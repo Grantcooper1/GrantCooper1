@@ -13,5 +13,5 @@
 
 
 
-[linkedin]: www.linkedin.com/in/grant-cooper2020
+[linkedin]:www.linkedin.com/in/grant-cooper2020
 
